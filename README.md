@@ -93,4 +93,4 @@ Yes, our Enterprise plan includes API access for seamless integration with your 
 
 ## Ready to Get Started?
 
-Join thousands of businesses that trust our barcode generator for their daily operations.
+Join thousands of businesses that trust our [barcode generator online](http://barcodegenerator.top/) for their daily operations.
