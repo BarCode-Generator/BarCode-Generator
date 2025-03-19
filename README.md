@@ -17,7 +17,7 @@ A [Free barcode generator](http://barcodegenerator.top/) is a specialized tool t
 
 Our tool supports a wide range of barcode formats to meet all your business requirements.
 
-- **Linear Barcodes**: [Code 128](http://barcodegenerator.top/barcode), Code 39, UPC-A, UPC-E, EAN-8, EAN-13, ITF-14, and more for retail and inventory.
+- **Linear Barcodes**: [Code 128](http://barcodegenerator.top/barcode/code128), [Code 39](http://barcodegenerator.top/barcode/code39), [UPC-A](http://barcodegenerator.top/barcode/upc), UPC-E, EAN-8, [EAN-13](http://barcodegenerator.top/barcode/ean13), ITF-14, and more for retail and inventory.
 - **2D Barcodes**: [QR Codes](http://barcodegenerator.top/qr-code), Data Matrix, PDF417, and Aztec codes for storing more data in less space.
 - **Customization**: Adjust size, colors, add text, and choose from multiple output formats (PNG, SVG, PDF).
 
