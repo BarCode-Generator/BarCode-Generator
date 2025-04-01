@@ -52,13 +52,3 @@ Creating professional barcodes is simple with our easy-to-use tool. Follow these
 5. **Download**: Save your barcode in your preferred format (PNG, SVG, PDF) for immediate use.
 6. **Implement**: Use your barcode in product labels, inventory systems, or marketing materials.
 
-
-
-
-### Do you offer an API for integration with my systems?
-
-Yes, our Enterprise plan includes API access for seamless integration with your existing systems. We provide comprehensive documentation and support for implementation.
-
-## Ready to Get Started?
-
-Join thousands of businesses that trust our [barcode generator online](http://barcodegenerator.top/) for their daily operations.
