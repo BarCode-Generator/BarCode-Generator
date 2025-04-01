@@ -17,8 +17,8 @@ A [Free barcode generator](https://morsecodegenerator.org/barcode-generator) is 
 
 Our tool supports a wide range of barcode formats to meet all your business requirements.
 
-- **Linear Barcodes**: [Code 128](http://barcodegenerator.top/barcode/code128), [Code 39](http://barcodegenerator.top/barcode/code39), [UPC-A](http://barcodegenerator.top/barcode/upc), UPC-E, EAN-8, [EAN-13](http://barcodegenerator.top/barcode/ean13), ITF-14, and more for retail and inventory.
-- **2D Barcodes**: [QR Codes](http://barcodegenerator.top/qr-code), Data Matrix, PDF417, and Aztec codes for storing more data in less space.
+- **Linear Barcodes**: [Code 128](https://morsecodegenerator.org/barcode-generator/code128), [Code 39](https://morsecodegenerator.org/barcode-generator/code39), [UPC-A](https://morsecodegenerator.org/barcode-generator/upc), UPC-E, EAN-8, [EAN-13](https://morsecodegenerator.org/barcode-generator/ean13), ITF-14, and more for retail and inventory.
+- **2D Barcodes**: [QR Codes Generator](https://morsecodegenerator.org/qr-code-generator), Data Matrix, PDF417, and Aztec codes for storing more data in less space.
 - **Customization**: Adjust size, colors, add text, and choose from multiple output formats (PNG, SVG, PDF).
 
 ### Advanced Features
