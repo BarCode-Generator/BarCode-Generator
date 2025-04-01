@@ -4,7 +4,7 @@ Generate Professional Barcodes in Seconds - Create, customize, and download high
 
 ## What is a Barcode Generator?
 
-A [Free barcode generator](http://barcodegenerator.top/) is a specialized tool that creates machine-readable codes representing data through patterns of parallel lines or geometric patterns.
+A [Free barcode generator](https://morsecodegenerator.org/barcode-generator) is a specialized tool that creates machine-readable codes representing data through patterns of parallel lines or geometric patterns.
 
 - Converts text or numeric data into visual codes
 - Creates standardized formats readable by scanners
@@ -52,40 +52,8 @@ Creating professional barcodes is simple with our easy-to-use tool. Follow these
 5. **Download**: Save your barcode in your preferred format (PNG, SVG, PDF) for immediate use.
 6. **Implement**: Use your barcode in product labels, inventory systems, or marketing materials.
 
-## Pricing
 
-Choose the plan that fits your needs. All plans include access to our core barcode generation features.
 
-### Free
-
-- Perfect for individuals and small projects
-- **$0/month**
-- Generate up to 50 barcodes/month
-- Basic barcode types (Code 128, QR)
-- PNG downloads
-- Basic customization options
-
-## Frequently Asked Questions
-
-### What barcode types do you support?
-
-We support a wide range of barcode types including Code 128, Code 39, UPC-A, UPC-E, EAN-8, EAN-13, ITF-14, QR Code, Data Matrix, PDF417, and Aztec codes. Our Professional and Enterprise plans include access to all barcode types.
-
-### Can I customize the appearance of my barcodes?
-
-Yes, you can customize the size, colors, and add text labels to your barcodes. Professional and Enterprise plans offer more advanced customization options including logo embedding for QR codes.
-
-### What file formats can I download my barcodes in?
-
-Free users can download barcodes in PNG format. Professional and Enterprise users can download in PNG, SVG, PDF, and EPS formats for maximum flexibility.
-
-### Is there a limit to how many barcodes I can generate?
-
-Free users can generate up to 50 barcodes per month. Professional and Enterprise plans offer unlimited barcode generation, with Enterprise providing unlimited batch processing capabilities.
-
-### Can I generate barcodes in bulk?
-
-Yes, Professional users can generate up to 1,000 barcodes in a single batch by uploading a CSV file. Enterprise users have no limits on batch generation.
 
 ### Do you offer an API for integration with my systems?
 
